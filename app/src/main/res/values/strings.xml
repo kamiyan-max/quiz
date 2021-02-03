@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="q1" />
+    <string name="todo" />
+    <string name="answer1" />
+    <string name="answer2" />
+    <string name="answer3" />
+    <string name="answer4" />
+</resources>
